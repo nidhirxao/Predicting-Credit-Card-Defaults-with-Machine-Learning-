@@ -1,6 +1,7 @@
 # Predicting-Credit-Card-Defaults-with-Machine-Learning-
+
 Credit Card Default Prediction
-Overview
+
 This repository contains a Python Jupyter Notebook project focused on predicting credit card default payments using various machine learning methods. The project explores data analysis, visualization, and five different machine learning techniques to predict defaults.
 
 Dataset
